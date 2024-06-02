@@ -1,0 +1,14 @@
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\bin\Debug\net8.0\MarsExploration.exe
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\bin\Debug\net8.0\MarsExploration.deps.json
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\bin\Debug\net8.0\MarsExploration.runtimeconfig.json
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\bin\Debug\net8.0\MarsExploration.dll
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\bin\Debug\net8.0\MarsExploration.pdb
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\obj\Debug\net8.0\MarsExploration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\obj\Debug\net8.0\MarsExploration.AssemblyInfoInputs.cache
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\obj\Debug\net8.0\MarsExploration.AssemblyInfo.cs
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\obj\Debug\net8.0\MarsExploration.csproj.CoreCompileInputs.cache
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\obj\Debug\net8.0\MarsExploration.dll
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\obj\Debug\net8.0\refint\MarsExploration.dll
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\obj\Debug\net8.0\MarsExploration.pdb
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\obj\Debug\net8.0\MarsExploration.genruntimeconfig.cache
+C:\Users\aapod\source\repos\Pangrams\MarsExploration\MarsExploration\obj\Debug\net8.0\ref\MarsExploration.dll
