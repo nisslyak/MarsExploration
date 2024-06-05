@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aapod\\source\\repos\\Pangrams\\MarsExploration\\",
+  "WorkspaceRootPath": "C:\\Users\\aapod\\source\\repos\\MarsExploration\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aapod\\source\\repos\\Pangrams\\MarsExploration\\MarsExploration\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MarsExploration\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96A7B0B8-D970-416D-BBB7-38D52F54642D}|MarsExploration\\MarsExploration.csproj|c:\\users\\aapod\\source\\repos\\marsexploration\\marsexploration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A7B0B8-D970-416D-BBB7-38D52F54642D}|MarsExploration\\MarsExploration.csproj|solutionrelative:marsexploration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aapod\\source\\repos\\Pangrams\\MarsExploration\\MarsExploration\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aapod\\source\\repos\\MarsExploration\\MarsExploration\\Program.cs",
               "RelativeDocumentMoniker": "MarsExploration\\Program.cs",
-              "ToolTip": "C:\\Users\\aapod\\source\\repos\\Pangrams\\MarsExploration\\MarsExploration\\Program.cs",
+              "ToolTip": "C:\\Users\\aapod\\source\\repos\\MarsExploration\\MarsExploration\\Program.cs",
               "RelativeToolTip": "MarsExploration\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAA7wDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T10:16:05.819Z",
               "EditorCaption": ""

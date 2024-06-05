@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aapod\\source\\repos\\Pangrams\\MarsExploration\\MarsExploration\\MarsExploration.csproj",
+      "projectUniqueName": "C:\\Users\\aapod\\source\\repos\\MarsExploration\\MarsExploration\\MarsExploration.csproj",
       "projectName": "MarsExploration",
-      "projectPath": "C:\\Users\\aapod\\source\\repos\\Pangrams\\MarsExploration\\MarsExploration\\MarsExploration.csproj",
+      "projectPath": "C:\\Users\\aapod\\source\\repos\\MarsExploration\\MarsExploration\\MarsExploration.csproj",
       "packagesPath": "C:\\Users\\aapod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aapod\\source\\repos\\Pangrams\\MarsExploration\\MarsExploration\\obj\\",
+      "outputPath": "C:\\Users\\aapod\\source\\repos\\MarsExploration\\MarsExploration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aapod\\AppData\\Roaming\\NuGet\\NuGet.Config",
